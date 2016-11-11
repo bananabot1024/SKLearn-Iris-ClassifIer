@@ -12,5 +12,6 @@ Program Summary:
 - load dataset / print data summaries
 - plot data (box and whisker, histogram, scatterplot)
 - split data into 80% training and 20% testing
-- tests logistic regression, linear discriminant analysis, KNN, decision tree, naive bayes, and SVM algorithms
+- train logistic regression, linear discriminant analysis, KNN, decision tree, naive bayes, and SVM algorithms
 - plot algorithm comparison in a boxplot
+- test with KNN (highest success rate in training)
